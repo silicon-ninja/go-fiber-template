@@ -1,0 +1,6 @@
+{
+    "dockerFile": "../Dockerfile.vscode.dev",
+    "runArgs": [
+        "--net=host"
+    ]
+}
